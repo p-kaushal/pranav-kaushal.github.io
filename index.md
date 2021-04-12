@@ -133,7 +133,7 @@ div.WordSection1
   <td width=431 valign=bottom style='width:323.5pt;padding:0in 5.75pt 0in 5.75pt;
   height:220.5pt'>
   <p class=MsoTitle>Pranav</p>
-  <p class=MsoSubtitle><span style='letter-spacing:0pt'>ML AI Engineer and
+  <p class=MsoSubtitle><span style='letter-spacing:0pt'>AI Translator ML Engineer and
   Enthusiast</span></p>
   </td>
  </tr>
@@ -151,7 +151,7 @@ div.WordSection1
   <p class=MsoNormal>&nbsp;</p>
   <p class=MsoNormal>EMAIL:</p>
   <p class=MsoNormal><span class=MsoHyperlink>someone@example.com</span><a
-  href="mailto:emailgoeshere@example.com"></a></p>
+  href="mailto:pranav.kaushal@outlook.com"></a></p>
   <h3>Hobbies</h3>
   <p class=MsoNormal>Hobby #1</p>
   <p class=MsoNormal>Hobby #2</p>
