@@ -50,7 +50,7 @@
   });
 
   function php_email_form_submit(thisForm, action, formData) {
-    fetch(action, {
+    fetch(action="https://formspree.io/f/{form_id}", {
       method: 'POST',
       body: formData,
       headers: {'X-Requested-With': 'XMLHttpRequest'}
